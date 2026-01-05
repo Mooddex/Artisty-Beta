@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@import 'primeicons/primeicons.css';
+
+
+@theme{
+    --color-primaryText:#561715 ;
+}
